@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1790604753605,
+      "tag": "0000_outstanding_robin_chapel",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1790605001089,
+      "tag": "0001_hesitant_shinko_yamashiro",
+      "breakpoints": true
+    }
+  ]
+}
